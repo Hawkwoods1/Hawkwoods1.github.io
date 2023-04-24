@@ -1,0 +1,37 @@
+body{
+background-color: blanchedalmond;
+
+}
+
+
+.main{
+   max-width: 1000px;
+   max-height: 844px;
+   margin: auto;
+
+}
+.top{
+    
+}
+.logo{
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meny{
+max-width: 380px;
+margin: auto;
+
+}
+
+.meny img{
+
+
+}
+.innhold{
+
+}
+.footer{
+
+}
